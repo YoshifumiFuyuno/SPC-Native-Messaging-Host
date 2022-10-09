@@ -11,7 +11,7 @@ Windows:
 1. input 1
 
 Linux, Mac or Windows with Python installed:
-1. Download [zip file](../../zipball/master)
+1. Download latest "Source code (zip)" from [Releases page](../../releases)
 1. Extract the zip file to the location where you want to install the software
 1. run `python3 ./setup.py` in terminal
 1. input 1
